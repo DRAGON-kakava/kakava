@@ -1,37 +1,83 @@
-## Welcome to GitHub Pages
+<html>
 
-You can use the [editor on GitHub](https://github.com/DRAGON-kakava/kakava/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<head>
+<style>
+p.blocktext {
+    margin-left: 300;
+    margin-right:0;
+}
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+img.displayed{
+display: div2;
+margin-left: 250;
+margin-right:;
+height:40%;
+width:50%;
+}
+ body{
+ background: grey;
+ }
+ </style>
+ 
+ <style>
+#div1{
+ background: green; width: 100%; height: 10%;
+ }
+ #div2{
+ background: white; width: 33%; height: 60%;
+ float:left
+ }
+ #div3{
+ background: blue; width: 33%; height: 60%;
+  float:left
+ }
+  #div4{
+ background: red; width: 33%; height: 60%;
+  float:left
+ }
+ #div5{
+ background: yellow; width: 100%; height: 10%;
+ float:left
+ }
+  #div6{
+ background: black; width: 50%; height: 10%;
+ float:left
+ }
+  #div7{
+ background: brown; width: 50%; height: 10%;
+ float:left
+ }
+ 
+ 
+</style>
+</head>
 
-### Markdown
+<body>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+<div id = div1></div>
 
-# Header 1
-## Header 2
-### Header 3
+<p class = "blocktext" > ПОИСК ВСЕХ ВИДОВ ТАНЧИКОВ ТОЛЬКО У НАС НА САЙТЕ!!! ПРОСТО НАПИШИ НАЗВАНИЕ ТАНЧИКА!!!</p>
 
-- Bulleted
-- List
+<div id = div2><img class = "displayed" src ='http://imagizer.imageshack.com/img911/2545/avd0bh.jpg'></div>
 
-1. Numbered
-2. List
+<h1>КАК МОЖНО БЫТЬ НАПРЯЖЕННЫМ КОГДА ВОКРУГ ТАК МНОГО КАКАВА</h1>
+<div id = div3></div>
 
-**Bold** and _Italic_ and `Code` text
+<div id = div4></div>
 
-[Link](url) and ![Image](src)
-```
+<div id = div5></div>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<div id = div6></div>
 
-### Jekyll Themes
+<div id = div7></div>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DRAGON-kakava/kakava/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</body>
+
+
+
+
+
+</html>
